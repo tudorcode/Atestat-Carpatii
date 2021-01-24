@@ -1,0 +1,81 @@
+body {
+    background-color:white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    margin-left: 40% ;
+    margin-right: 40% ;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+h3{
+    font-size: 25px;
+    margin-left: 8%;
+}
+
+#imagine1{
+    margin-left: 13%;
+    margin-right: 6%;
+    width: 30%;
+    border-radius: 15px;
+    height: 340px;
+    
+}
+#imagine3{
+    margin-left: 8%;
+    width: 30%;
+    border-radius: 15px;
+    height: 340px;
+}
+
+.lista {
+    font-size: 22px;
+    margin-left: 5%;
+    margin-right: 4%;
+}
+.clasificare {
+    font-size: 26px;
+    margin-left: 5%;
+    margin-top: 0%;
+    
+}
+#definitie{
+    text-align: center;
+    font-size: 25px;
+}
+#harta{
+    position: absolute;
+    margin-left: 57%;
+    margin-right: 3%;
+    top: 108%;
+    width:370px;
+    height: 270px;
+}
+#moldoveanu{
+    position: absolute;
+    width:370px;
+    height: 270px;
+    margin-left: 6%;
+    border-radius: 7%;
+}
+#sfinx{
+    position: absolute;
+    width:370px;
+    height: 270px;
+    margin-left: 37%;
+    border-radius: 7%;
+}
+#aspecte{
+    position: absolute;
+    width:370px;
+    height: 270px;
+    margin-left:68%;
+    border-radius: 7%;
+}
+.spatiu{
+    height:260px;
+}
