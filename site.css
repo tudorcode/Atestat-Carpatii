@@ -17,19 +17,14 @@ h3{
     margin-left: 8%;
 }
 
-#imagine1{
-    margin-left: 13%;
-    margin-right: 6%;
-    width: 30%;
+#imagine1{ 
     border-radius: 15px;
-    height: 340px;
-    
+    margin-left: 15%;
+
 }
 #imagine3{
-    margin-left: 8%;
-    width: 30%;
+    margin-left:17%;
     border-radius: 15px;
-    height: 340px;
 }
 
 .lista {
@@ -51,9 +46,7 @@ h3{
     position: absolute;
     margin-left: 57%;
     margin-right: 3%;
-    top: 108%;
-    width:370px;
-    height: 270px;
+    top: 110%;
 }
 #moldoveanu{
     position: absolute;
