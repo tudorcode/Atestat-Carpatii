@@ -16,15 +16,26 @@ h3{
     font-size: 25px;
     margin-left: 8%;
 }
-
-#imagine1{ 
-    border-radius: 15px;
-    margin-left: 15%;
-
+#imagine1{
+    position: absolute;
+    width:370px;
+    height: 270px;
+    margin-left: 8%;
+    border-radius: 7%;
+}
+#imagine2{
+    position: absolute;
+    width:370px;
+    height: 270px;
+    margin-left: 38%;
+    border-radius: 7%;
 }
 #imagine3{
-    margin-left:17%;
-    border-radius: 15px;
+    position: absolute;
+    width:370px;
+    height: 270px;
+    margin-left:68%;
+    border-radius: 7%;
 }
 
 .lista {
@@ -44,22 +55,22 @@ h3{
 }
 #harta{
     position: absolute;
-    margin-left: 57%;
-    margin-right: 3%;
-    top: 110%;
+    right: 10%;
+    top:102%;
+    
 }
 #moldoveanu{
     position: absolute;
     width:370px;
     height: 270px;
-    margin-left: 6%;
+    margin-left: 8%;
     border-radius: 7%;
 }
 #sfinx{
     position: absolute;
     width:370px;
     height: 270px;
-    margin-left: 37%;
+    margin-left: 38%;
     border-radius: 7%;
 }
 #aspecte{
@@ -71,4 +82,46 @@ h3{
 }
 .spatiu{
     height:260px;
+}
+#pastrav{
+    position: absolute;
+    width:370px;
+    height: 270px;
+    margin-left: 8%;
+    border-radius: 7%;
+}
+#pitigoi{
+    position: absolute;
+    width:370px;
+    height: 270px;
+    margin-left: 38%;
+    border-radius: 7%;
+}
+#vipera{
+    position: absolute;
+    width:370px;
+    height: 270px;
+    margin-left:68%;
+    border-radius: 7%;
+}
+#capra{
+    position: absolute;
+    width:370px;
+    height: 270px;
+    margin-left: 8%;
+    border-radius: 7%;
+}
+#cerb{
+    position: absolute;
+    width:370px;
+    height: 270px;
+    margin-left: 38%;
+    border-radius: 7%;
+}
+#urs{
+    position: absolute;
+    width:370px;
+    height: 270px;
+    margin-left:68%;
+    border-radius: 7%;
 }
